@@ -35,9 +35,8 @@ Throughout the process, we documented:
 The result is a comprehensive how-to guide for reducing JWST NIRSpec IFU data. This resource is designed for users of all experience levels - from beginners to advanced researchers - who are interested in working with JWST IFU observations.
 
 ## References
-
-	1.	Astrobites. (2023, October 3). UR: A Getting Started Guide for JWST NIRSpec IFU Data Reduction. https://astrobites.org/2023/10/03/ur-a-getting-started-guide-for-jwst-nirspec-ifu-data-reduction/
-	2.	Space Telescope Science Institute (STScI). JWST NIRSpec Instrument Overview. https://jwst-docs.stsci.edu/jwst-near-infrared-spectrograph#gsc.tab=0
-	3.	STScI. NIRSpec IFU Spectroscopy Observing Mode. https://jwst-docs.stsci.edu/jwst-near-infrared-spectrograph/nirspec-observing-modes/nirspec-ifu-spectroscopy#gsc.tab=0
-	4.	JWST TEMPLATES ERS Team. (2023). JWST Notebooks – Public Cookbooks and Tutorials. GitHub Repository. https://github.com/JWST-Templates/Notebooks/blob/main/README.md
-	5.	University of Cincinnati, Department of Physics. https://www.artsci.uc.edu/departments/physics.html
+1. Astrobites. (2023, October 3). UR: A Getting Started Guide for JWST NIRSpec IFU Data Reduction. https://astrobites.org/2023/10/03/ur-a-getting-started-guide-for-jwst-nirspec-ifu-data-reduction/
+2. Space Telescope Science Institute (STScI). JWST NIRSpec Instrument Overview. https://jwst-docs.stsci.edu/jwst-near-infrared-spectrograph#gsc.tab=0
+3. STScI. NIRSpec IFU Spectroscopy Observing Mode. https://jwst-docs.stsci.edu/jwst-near-infrared-spectrograph/nirspec-observing-modes/nirspec-ifu-spectroscopy#gsc.tab=0
+4. JWST TEMPLATES ERS Team. (2023). JWST Notebooks – Public Cookbooks and Tutorials. GitHub Repository. https://github.com/JWST-Templates/Notebooks/blob/main/README.md
+5. University of Cincinnati, Department of Physics. https://www.artsci.uc.edu/departments/physics.html
