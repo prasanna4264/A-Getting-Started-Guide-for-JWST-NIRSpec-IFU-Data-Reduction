@@ -1,4 +1,5 @@
-Welcome to the JWST NIRSpec IFU Data Reduction Repository
+## Welcome to the JWST NIRSpec IFU Data Reduction Repository
+
 This repository provides a structured, user-friendly pipeline for reducing and analyzing Integral Field Unit (IFU) data obtained from the James Webb Space Telescope (JWST). The workflow leverages the official jwst pipeline developed by the Space Telescope Science Institute (STScI), along with relevant scientific Python tools.
 
 ## Overview
